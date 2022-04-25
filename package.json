@@ -1,6 +1,6 @@
 {
     "name": "@team-folivora/openapi-typescript-codegen",
-    "version": "0.20.1",
+    "version": "0.20.2",
     "description": "Fork of openapi-typescript-codegen that supports binary responses",
     "author": "Ferdi Koomen",
     "homepage": "https://github.com/team-folivora/openapi-typescript-codegen",
