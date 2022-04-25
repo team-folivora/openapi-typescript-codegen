@@ -1,3 +1,5 @@
+# :warning: This repository is a fork of [openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen). Its only use is to publish binary response support as implemented by [loganbenjamin](https://github.com/loganbenjamin/openapi-typescript-codegen) to npmjs.
+
 # OpenAPI Typescript Codegen
 
 [![NPM][npm-image]][npm-url]
